@@ -1,0 +1,1 @@
+Test `time go test` and it will run all these tests in series because `t.Parellel()` is never called.
